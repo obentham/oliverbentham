@@ -12,7 +12,7 @@ I received my undergraduate degrees in Computer Science and Linguistics from the
 
 ## Research Interests
 
-In my research, I want to explore sustainable and efficient alternatives to current NLP modeling methods, without compromising on quality. The current generation of large language models seem to constantly be growing (GPT-4 is [rumored to have 1.76 trillion parameters](https://medium.com/@mlubbad/the-ultimate-guide-to-gpt-4-parameters-everything-you-need-to-know-about-nlps-game-changer-109b8767855a)), and, as a result:
+In my research, I want to explore sustainable and efficient alternatives to current NLP modeling methods, without compromising on quality. The current generation of large language models seem to constantly be growing (GPT-4 is [rumored to have ~1.8 trillion parameters](https://the-decoder.com/gpt-4-architecture-datasets-costs-and-more-leaked/)), and, as a result:
 
 1. The compute energy required to train/operate these models continues to grow, raising questions about whether these models justify their environmental footprint.
 2. The GPU hardware required is inaccessible for most, even including many researchers in well funded labs. This makes it ever more difficult to research and understand how these models work.
