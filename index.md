@@ -10,7 +10,7 @@ Prior to joining [Utah's NLP Lab](https://nlp.cs.utah.edu/), I worked as a senio
 
 I received my undergraduate degrees in Computer Science and Linguistics from the [University of Maryland](https://umd.edu/) in 2019.
 
-## Research Interests
+<!-- ## Research Interests
 
 In my research, I want to explore sustainable and efficient alternatives to current NLP modeling methods, without compromising on quality. The current generation of large language models seem to constantly be growing (GPT-4 is [rumored to have ~1.8 trillion parameters](https://the-decoder.com/gpt-4-architecture-datasets-costs-and-more-leaked/)), and, as a result:
 
@@ -18,7 +18,7 @@ In my research, I want to explore sustainable and efficient alternatives to curr
 2. The GPU hardware required is inaccessible for most, even including many researchers in well funded labs. This makes it ever more difficult to research and understand how these models work.
 3. Often, these massive models are more than a given problem requires. For many problems, smaller models achieve comparable results for a fraction the parameters.
 
-I'm working on methods that can achieve NLP results comparable to the current state-of-the-art without trillions of parameters and inaccesible hardware demands.
+I'm working on methods that can achieve NLP results comparable to the current state-of-the-art without trillions of parameters and inaccesible hardware demands. -->
 
 <!-- ## News
 
