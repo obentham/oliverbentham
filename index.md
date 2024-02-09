@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I'm Oliver, a PhD student at the University of Utah, advised by [Prof. Vivek Srikumar](https://svivek.com/). I spend my time working on problems at the intersection of natural language processing and machine learning.
+Hello! I'm Oliver, a PhD student at the University of Utah, advised by [Vivek Srikumar](https://svivek.com/). I spend my time working on problems at the intersection of natural language processing and machine learning.
 
 Prior to joining [Utah's NLP Lab](https://nlp.cs.utah.edu/), I worked as a senior machine learning engineer at The Washington Post for two years, where I developed and deployed models for revenue optimization and targeted advertising. Before my time at the Post, I was a machine learning engineer at Alion Science and Technology. I received my undergraduate degrees in Computer Science and Linguistics from the [University of Maryland](https://umd.edu/) in 2019.
 
