@@ -1,58 +1,24 @@
-# Basic Information 
 title: Oliver Bentham
-position: PhD Student
-affiliation: University of Utah
-affiliation_link: http://www.cs.utah.edu/
-email: oliver.bentham (at) utah.edu
+url: "https://oliverbentham.com"
+baseurl: ""
 
-# Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Oliver Bentham, Natural Language Processing, NLP, Machine Learning, ML, Artificial Intelligence, AI, Vivek Srikumar, Utah, University of Utah
-description: Oliver Bentham's personal website
-canonical: https://oliverbentham.com
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
-# google_scholar: https://scholar.google.com/
-# cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/obentham
-linkedin: https://www.linkedin.com/in/oliverbentham/
-twitter: https://twitter.com/obenthamo
+tracking_id: #
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/portrait.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon.png
+footer: no
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
+sass:
+    style: compressed
+    sass_dir: _sass
 
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: true
-
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: G-Q2W3SDZE0V
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
-
-# The following files will be removed from the generated website.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
-  - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/
+nav:
+#  - name: "About"
+#    link: ""
+#  - name: "Resume"
+#    link: "resume.pdf"
+#  - name: "Contact"
+#    link: "contact"
