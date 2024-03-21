@@ -58,21 +58,3 @@
         width: 100%;
     }
 }
-
-#profile-picture {
-    height: $image-size;
-    width: $image-size;
-    position: relative;
-    margin: -35px 0 0px 0px;
-    float: right;
-    border-radius: 50%;
-    p & {
-        padding: 0;
-        margin: 0;
-    }
-    @media (max-width: $small-width) {
-        img {
-            margin-top: -5px;
-        }
-    }
-}

@@ -1,8 +1,6 @@
 @import "vars";
 
-/*
- * Basic
- */
+/* Basic */
 
 html {
     height: 100%;
@@ -28,9 +26,7 @@ hr {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
-/*
- * Navbar
- */
+/* Navbar */
 
 #author-name {
     font-size: 30px;
@@ -71,14 +67,41 @@ hr {
 .wrapper {
     min-height: 100%;
 }
+.footer-margin{
+    height: 55px;
+}
+.footer {
+    display: block;
+    text-align: center; 
+    position: fixed; 
+    width: $max-width;
+    bottom: 0; 
+    height: 55px;
+    background-color: white;
+}
+.footer-link{
+    display: block;
+    display: inline
+}
 
-/* Institute Image */
+/* Profile Picture */
 
-#ins-logo {
-	margin: auto;
-	display: block;
-	max-height: 100px;
-	text-align: center;
+#profile-picture {
+    height: $image-size;
+    width: $image-size;
+    position: relative;
+    margin: -35px 0 0px 0px;
+    float: right;
+    border-radius: 50%;
+    p & {
+        padding: 0;
+        margin: 0;
+    }
+    @media (max-width: $small-width) {
+        img {
+            margin-top: -5px;
+        }
+    }
 }
 
 /* Mobile */
@@ -87,6 +110,9 @@ hr {
     .container {
         max-width: $med-width;
         transition: 0.3s ease all;
+    }
+    .footer-link{
+        display: none;
     }
 }
 
@@ -100,6 +126,9 @@ hr {
 }
 
 @media (max-width: 500px) {
+    #profile-picture {
+        display: none;
+    }
 	.navbar {
 		text-align: center;
 		padding: 50px 0px 0px 0px;

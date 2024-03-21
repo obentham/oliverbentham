@@ -3,20 +3,20 @@ url: "https://oliverbentham.com"
 baseurl: ""
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
-
-footer: no
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
     sass_dir: _sass
 
-nav:
-#  - name: "About"
-#    link: ""
-#  - name: "Resume"
-#    link: "resume.pdf"
-#  - name: "Contact"
-#    link: "contact"
+footer: yes
+footer_links:
+- name: "email"
+  link: "oliver.bentham (at) utah.edu"
+- name: "Google Scholar"
+  link: "https://scholar.google.com/citations?user=PdOTpqwAAAAJ&hl=en"
+- name: "GitHub"
+  link: "https://github.com/obentham"
+- name: "Twitter"
+  link: "https://twitter.com/obenthamo"
+- name: "LinkedIn"
+  link: "https://www.linkedin.com/in/oliverbentham/"
