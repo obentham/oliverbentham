@@ -68,7 +68,7 @@ hr {
     min-height: 100%;
 }
 .footer-margin{
-    height: 55px;
+    height: 105px;
 }
 .footer {
     display: block;
@@ -90,18 +90,13 @@ hr {
     height: $image-size;
     width: $image-size;
     position: relative;
-    margin: -35px 0 0px 0px;
+    margin: -35px 0px 0px 0px;
     float: right;
     border-radius: 50%;
-    p & {
-        padding: 0;
-        margin: 0;
-    }
-    @media (max-width: $small-width) {
-        img {
-            margin-top: -5px;
-        }
-    }
+    // p & {
+    //     padding: 0;
+    //     margin: 0;
+    // }
 }
 
 /* Mobile */
@@ -127,7 +122,14 @@ hr {
 
 @media (max-width: 500px) {
     #profile-picture {
-        display: none;
+        // display: none;
+        // display: flex;
+        // justify-content: center;
+        
+        position: static;
+        margin: 20px 0px 5px 0px;
+        float: none;
+        // border-radius: 50%;
     }
 	.navbar {
 		text-align: center;

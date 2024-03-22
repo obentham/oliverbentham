@@ -27,6 +27,9 @@
   {% if site.favicon %}
     <link rel="icon" type="image/ico" href="{{ site.favicon_location }}">
     <link rel="shortcut-icon" type="image/ico" href="{{ site.favicon_location }}">
+  {% else %}
+  <link rel="icon" href="#">
+  <link rel="shortcut icon" href="#">
   {% endif %}
   {% if site.twitter_username %}
     <link rel="author" href="https://twitter.com/{{ site.twitter_username }}">
