@@ -11,8 +11,13 @@ My work is supported by the National Science Foundation CSGrad4US Fellowship.
 
 ## Publications
 
+<span class="paper-title">**Beyond Perplexity: Multi-dimensional Safety Evaluation of LLM Compression**</span> \\
+Zhichao Xu, Ashim Gupta, Tao Li, **Oliver Bentham**, Vivek Srikumar \\
+*preprint* \\
+[[Paper](https://arxiv.org/abs/2407.04965)]
+
 <span class="paper-title">**Chain-of-Thought Unfaithfulness as Disguised Accuracy**</span> \\
-**Oliver Bentham<sup>\*</sup>**, Nathan Stringham<sup>\*</sup>, Ana Marasović \\
+**Oliver Bentham**<sup>\*</sup>, Nathan Stringham<sup>\*</sup>, Ana Marasović \\
 *MLRC 2023, TMLR 2024* \\
 [[Paper](https://arxiv.org/abs/2402.14897)] [[Code](https://github.com/utahnlp/cot_disguised_accuracy)]
 
