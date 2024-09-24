@@ -13,7 +13,7 @@ My work is supported by the National Science Foundation CSGrad4US Fellowship.
 
 <span class="paper-title">[**Beyond Perplexity: Multi-dimensional Safety Evaluation of LLM Compression**](https://arxiv.org/abs/2407.04965)</span> \\
 Zhichao Xu, Ashim Gupta, Tao Li, **Oliver Bentham**, Vivek Srikumar \\
-*Preprint* \\
+*EMNLP 2024 Findings* \\
 [[Paper](https://arxiv.org/abs/2407.04965)] [[Code](https://github.com/zhichaoxu-shufe/Beyond-Perplexity-Compression-Safety-Eval)]
 
 <span class="paper-title">[**Chain-of-Thought Unfaithfulness as Disguised Accuracy**](https://arxiv.org/abs/2402.14897)</span> \\
