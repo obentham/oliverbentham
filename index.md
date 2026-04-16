@@ -12,7 +12,7 @@ My work is supported by the NSF CSGrad4US Fellowship.
 ## Publications
 <span class="paper-title">[**InfiniteScienceGym: An Unbounded, Procedurally-Generated Benchmark for Scientific Analysis**](https://arxiv.org/abs/2604.13201)</span> \\
 **Oliver Bentham**, Vivek Srikumar \\
-*preprint* \\
+*Preprint* \\
 [[Paper](https://arxiv.org/abs/2604.13201)]
 
 <span class="paper-title">[**Beyond Perplexity: Multi-dimensional Safety Evaluation of LLM Compression**](https://arxiv.org/abs/2407.04965)</span> \\
@@ -25,3 +25,4 @@ Zhichao Xu, Ashim Gupta, Tao Li, **Oliver Bentham**, Vivek Srikumar \\
 *MLRC 2023, TMLR 2024, presented at NeurIPS 2024* \\
 [[Paper](https://arxiv.org/abs/2402.14897)] [[Poster](https://drive.google.com/file/d/1AlLEox9shZW0UFk6PJwcoQq-o8jMLQRE/view?usp=sharing)] [[Code](https://github.com/utahnlp/cot_disguised_accuracy)]
 
+<sup>\*</sup>denotes equal contribution
