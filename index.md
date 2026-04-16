@@ -25,4 +25,4 @@ Zhichao Xu, Ashim Gupta, Tao Li, **Oliver Bentham**, Vivek Srikumar \\
 *MLRC 2023, TMLR 2024, presented at NeurIPS 2024* \\
 [[Paper](https://arxiv.org/abs/2402.14897)] [[Poster](https://drive.google.com/file/d/1AlLEox9shZW0UFk6PJwcoQq-o8jMLQRE/view?usp=sharing)] [[Code](https://github.com/utahnlp/cot_disguised_accuracy)]
 
-<sup>\*</sup>denotes equal contribution
+<!-- <sup>\*</sup>denotes equal contribution -->
