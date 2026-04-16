@@ -10,6 +10,10 @@ My work is supported by the National Science Foundation CSGrad4US Fellowship.
 
 
 ## Publications
+<span class="paper-title">[**InfiniteScienceGym: An Unbounded, Procedurally-Generated Benchmark for Scientific Analysis**](https://arxiv.org/abs/2604.13201)</span> \\
+**Oliver Bentham**, Vivek Srikumar \\
+*preprint* \\
+[[Paper](https://arxiv.org/abs/2604.13201)]
 
 <span class="paper-title">[**Beyond Perplexity: Multi-dimensional Safety Evaluation of LLM Compression**](https://arxiv.org/abs/2407.04965)</span> \\
 Zhichao Xu, Ashim Gupta, Tao Li, **Oliver Bentham**, Vivek Srikumar \\
