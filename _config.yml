@@ -8,8 +8,9 @@ sass:
     style: compressed
     sass_dir: _sass
 
-footer: yes
-footer_links:
+header: yes
+footer: no
+links:
 - name: "email"
   link: "oliver.bentham (at) utah.edu"
 - name: "Google Scholar"

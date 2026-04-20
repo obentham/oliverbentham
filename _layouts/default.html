@@ -71,17 +71,29 @@
     <div class="navbar container">
       <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
       <img id="profile-picture" alt="portrait picture" src="portrait.png">
+      {% if site.header == true %}
+      <p id="header">
+        {% for x in site.links %}
+        {% if x.name == "email" %}
+        <div style="display: inline;">{{x.link}}</div>
+        {% else %}
+        <div class="inline-link">| <a href="{{ x.link }}">{{ x.name }}</a></div>
+        <div class="newline-link">{% if forloop.index == 2 %}<br>{% else %}| {% endif %}<a href="{{ x.link }}">{{ x.name }}</a></div>
+        {% endif %}
+        {% endfor %}
+      </p>
+      {% endif %}
+      <div style="clear:both"></div>
     </div>
-    <div style="clear:both"></div>
     <hr>
     <div class="container content">
       {{ content }}
+      <div class="footer-margin"></div>
       {% if site.footer == true %}
-        <div class="footer-margin"></div>
         <div class="container footer">
           <hr />
           <p>
-            {% for x in site.footer_links %}
+            {% for x in site.links %}
               {% if x.name == "email" %}
                 <div style="display: inline;">{{x.link}}</div>
               {% else %}

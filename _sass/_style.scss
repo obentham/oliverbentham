@@ -37,7 +37,7 @@ hr {
     display: inline-block;
 }
 .navbar {
-    padding: 50px 0 50px 0;
+    padding: 60px 0 5px 0;
 }
 .navbar-ul {
     display: inline-block;
@@ -70,7 +70,7 @@ hr {
 .wrapper {
     min-height: 100%;
 }
-.footer-margin{
+.footer-margin {
     height: 55px;
 }
 .footer {
@@ -82,9 +82,12 @@ hr {
     height: 55px;
     background-color: white;
 }
-.footer-link{
+.inline-link {
     display: block;
-    display: inline
+    display: inline;
+}
+.newline-link {
+    display: none;
 }
 
 /* Profile Picture */
@@ -96,18 +99,33 @@ hr {
     margin: -35px 0px 0px 0px;
     float: right;
     border-radius: 50%;
-    // p & {
-    //     padding: 0;
-    //     margin: 0;
-    // }
+    // border-radius: 25%;
+    // border-color: $accent;
+    // border-width: 5px;
+    // border-style: solid;
+}
+
+/* Header */
+
+#header {
+    display: block;
+    text-align: center; 
+    height: 25px;
 }
 
 /* Mobile */
 
-@media (max-width: 800px) {
+@media (max-width: 900px) {
     .container {
         max-width: $med-width;
         transition: 0.3s ease all;
+    }
+    .inline-link {
+        display: none;
+    }
+    .newline-link {
+        display: inline;
+        line-height: 125%;
     }
     .footer-link{
         display: none;
@@ -130,7 +148,7 @@ hr {
         // justify-content: center;
         
         position: static;
-        margin: 20px 0px 5px 0px;
+        margin: 20px 0px 0px 0px;
         float: none;
         // border-radius: 50%;
     }
@@ -142,6 +160,9 @@ hr {
 		width: 100%;
 		float: none;
 	}
+    #header {
+        height: 0;
+    }
 	#navlist {
 		padding: 10px 0 10px 0;
 		margin: 0;

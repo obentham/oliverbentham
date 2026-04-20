@@ -4,12 +4,12 @@ layout: default
 
 I'm a PhD student at the University of Utah, advised by [Vivek Srikumar](https://svivek.com/). I work on problems at the intersection of natural language processing and machine learning. More recently, I've become interested in training and evaluating tool-enabled, agentic LLMs in *AI-for-Science* settings focussed on interaction with empirical data. 
 
-Prior to joining [Utah's NLP Lab](https://nlp.cs.utah.edu/), I worked as a senior machine learning engineer at The Washington Post, where I trained and deployed models for revenue optimization and personalized advertising. Before my time at the Post, I was a machine learning engineer at Alion Science and Technology, where I worked on multilingual information retrieval. I received my undergraduate degrees in Computer Science and Linguistics from the University of Maryland in 2019.
+Prior to joining [Utah's NLP Lab](https://nlp.cs.utah.edu/), I worked as a senior machine learning engineer at The Washington Post, where I trained and deployed models for revenue optimization and personalized advertising. Before that, I was a machine learning engineer at Alion Science and Technology, where I worked on multilingual information retrieval. I received my undergraduate degrees in Computer Science and Linguistics from the University of Maryland in 2019.
 
 My work is supported by the NSF CSGrad4US Fellowship.
 
-
 ## Publications
+
 <span class="paper-title">[**InfiniteScienceGym: An Unbounded, Procedurally-Generated Benchmark for Scientific Analysis**](https://arxiv.org/abs/2604.13201)</span> \\
 **Oliver Bentham**, Vivek Srikumar \\
 *Preprint* \\
